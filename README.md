@@ -1,36 +1,58 @@
-💱 Currency Converter
+<h1 align="center">💱 Currency Converter</h1>
 
-A modern React-based Currency Converter built with real-time exchange rates from the Frankfurter API.
-It features a clean UI, animated interactions, and dynamic currency conversion.
+<p align="center">
+  A modern <b>React-based Currency Converter</b> powered by real-time exchange rates.
+  <br/>
+  Built with clean UI, smooth animations, and dynamic conversion logic.
+</p>
 
-🚀 Live Demo
+---
 
-https://currency-converter-plum-zeta.vercel.app/
+## 🚀 Live Demo
 
-🛠 Tech Stack
+<p >
+  🔗 <a href="https://currency-converter-plum-zeta.vercel.app/" target="_blank">
+  View Live Project</a>
+</p>
 
-React.js
+---
 
-Tailwind CSS
+## 🛠 Tech Stack
 
-Frankfurter Currency API
+<p align="center">
 
-JavaScript (ES6+)
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/API-Frankfurter-4CAF50?style=for-the-badge" />
 
-✨ Features
+</p>
 
-🌍 Fetches real-time exchange rates
+---
 
-🔄 Convert between multiple currencies
+## ✨ Features
 
-📊 Dynamic dropdown currency selection
+- 🌍 Real-time exchange rates  
+- 🔄 Multi-currency conversion  
+- 📊 Dynamic currency dropdowns  
+- 💎 Glassmorphism UI  
+- 🎨 Smooth animations  
+- ⚡ Fast & responsive layout  
 
-💎 Glassmorphism UI design
+---
 
-🎨 Smooth animations & modern styling
+## 📸 Screenshot
 
-⚡ Fast and responsive layout
+<p align="center">
+  <img src="./Screenshot%202026-02-16%20213842.png" width="800"/>
+</p>
 
+---
 
-![Currency Converter UI](./Screenshot%202026-02-16%20213842.png)
+## 📦 Installation
 
+```bash
+git clone https://github.com/PRASADAUCSE/currency-converter.git
+cd currency-converter
+npm install
+npm run dev
