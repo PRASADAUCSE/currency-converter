@@ -30,3 +30,7 @@ JavaScript (ES6+)
 🎨 Smooth animations & modern styling
 
 ⚡ Fast and responsive layout
+
+
+![Currency Converter UI](./Screenshot%202026-02-16%20213842.png)
+
